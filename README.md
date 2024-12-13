@@ -11,7 +11,7 @@
  <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
  </p>
 
-## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
+## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>Acerca de Mí</b>
 Soy Nico, un estudiante de ingeniería en sistemas que le gusta mucho invertir tiempo al estudio, sea de la carrera o algún extra :D.Me gusta aprender y claramente si se trata de programación mucho mejor!
 
 <br>
@@ -27,7 +27,7 @@ Soy Nico, un estudiante de ingeniería en sistemas que le gusta mucho invertir t
 
 <br>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Contactáte conmigo</b>
 
  
  
@@ -58,37 +58,6 @@ Soy Nico, un estudiante de ingeniería en sistemas que le gusta mucho invertir t
 </p>
 
 <br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Competitive Programming</b>
-<br>
-
-
-<p align="left"> 
-  <a href="https://www.hackerrank.com/Alamin972731?hr_r=1" target="_blank"> 
-    <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.codechef.com/users/Alamin972731" target="_blank"> 
-   <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white">
-  </a>
-  
-  <a href="https://codeforces.com/profile/alamin.ai" target="_blank">
-    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white">
-  </a> 
-  
-  <a href="https://www.hackerearth.com/@al107" target="_blank"> 
-    <img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?logo=HackerEarth&logoColor=blue"/>
-  </a>
-  
-  <a href="https://leetcode.com/alamin11/" target="_blank"> 
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06"/>
-  </a>
-</p>
-
-
-<br>
-
-
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 ### 📋 Lenguajes de Programación
