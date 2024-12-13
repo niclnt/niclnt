@@ -306,17 +306,16 @@ Soy Nico, un estudiante de ingeniería en sistemas que le gusta mucho invertir t
 
 <br>
 
-## <b>💪Quote || Fact</b>
+## <b>💪Facto </b>
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines="First,+solve+the+problem.+Then,+write+the+code".;++"Great+Developers+never+stop+learning".)](https://git.io/typing-svg)
 
 <br>
 
-#### <p align="center"><b>Thank you for taking the time to read my profile 🤣🤣</b></p>
+#### <p align="center"><b>Gracias por ver mi humilde perfil 🤣🤣</b></p>
 
 
 -----
-Credits: [Al-Amin](https://github.com/alamin-babu)
 
 Last Edited on: 04/07/2024
