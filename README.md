@@ -36,7 +36,7 @@ Soy Nico, un estudiante de ingeniería en sistemas que le gusta mucho invertir t
 <p align="center"><!-----Redes sociales------>
 
 <p align="center">
- <a href="https://niclnt.github.io/nicolaikiller200.github.io/">
+ <a href="https://niclnt.github.io/nicolasBustos.github.io/">
  <img border="0" alt="Portfolio de Nico" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
  </a>
 
